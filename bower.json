@@ -2,7 +2,7 @@
   "name": "offthread-image",
   "main": "offthread-image.html",
   "dependencies": {
-    "polymer": "git@github.com:Polymer/polymer#v2.0.0-rc.2",
+    "polymer": "Polymer/polymer#^v2.0.0",
     "iron-image": "PolymerElements/iron-image#2.0-preview"
   },
   "devDependencies": {
